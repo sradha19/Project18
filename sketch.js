@@ -16,7 +16,7 @@ function preload(){
   BoyImage = loadImage("skateboarder.jpg");
   car1Image = loadImage("Car1.jpg");
   car2Image = loadImage("Car2.jpg");
-  CityImage = loadImage("City.jpg");
+  CityImage = loadImage("City.png");
   gameOverImage = loadImage("gameOver.png");
 
 }
